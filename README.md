@@ -11,3 +11,5 @@ Predicts 1.0s head trajectory from 2.0s past rotation + 15-D visual saliency fea
 Training code and the original VR datasets aren't included — too if you are interested in training, drop me an email (Jian0322@163.com).
 
 ## Run it
+pip install torch numpy
+python example.py
