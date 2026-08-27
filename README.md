@@ -12,4 +12,4 @@ Training code and the original VR datasets aren't included — too if you are in
 
 ## Run it
 pip install torch numpy
-python example.py
+python main.py
